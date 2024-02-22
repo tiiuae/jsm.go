@@ -29,8 +29,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/nats-io/jsm.go/api"
-	scfs "github.com/nats-io/jsm.go/schemas"
+	"github.com/tiiuae/jsm.go/api"
+	scfs "github.com/tiiuae/jsm.go/schemas"
 )
 
 var schemasFileTemplate = `// auto generated {{.Now}}
@@ -39,12 +39,12 @@ package api
 
 import (
 	"encoding/base64"
-	srvadvisory "github.com/nats-io/jsm.go/api/server/advisory"
-	srvmetric "github.com/nats-io/jsm.go/api/server/metric"
-	jsadvisory "github.com/nats-io/jsm.go/api/jetstream/advisory"
-    jsmetric "github.com/nats-io/jsm.go/api/jetstream/metric"
-	jsapi "github.com/nats-io/jsm.go/api/jetstream/api"
-    scfs "github.com/nats-io/jsm.go/schemas"
+	srvadvisory "github.com/tiiuae/jsm.go/api/server/advisory"
+	srvmetric "github.com/tiiuae/jsm.go/api/server/metric"
+	jsadvisory "github.com/tiiuae/jsm.go/api/jetstream/advisory"
+    jsmetric "github.com/tiiuae/jsm.go/api/jetstream/metric"
+	jsapi "github.com/tiiuae/jsm.go/api/jetstream/api"
+    scfs "github.com/tiiuae/jsm.go/schemas"
 	"github.com/tiiuae/nats.go/micro"
 )
 

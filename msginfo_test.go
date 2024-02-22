@@ -20,7 +20,7 @@ import (
 
 	"github.com/tiiuae/nats.go"
 
-	"github.com/nats-io/jsm.go"
+	"github.com/tiiuae/jsm.go"
 )
 
 func TestParseJSMsgMetadata_New(t *testing.T) {

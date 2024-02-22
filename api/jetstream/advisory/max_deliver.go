@@ -1,7 +1,7 @@
 package advisory
 
 import (
-	"github.com/nats-io/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/event"
 )
 
 // ConsumerDeliveryExceededAdvisoryV1 is an advisory published when a consumer

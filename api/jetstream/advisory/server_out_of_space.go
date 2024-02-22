@@ -1,7 +1,7 @@
 package advisory
 
 import (
-	"github.com/nats-io/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/event"
 )
 
 // JSServerOutOfSpaceAdvisoryV1 is an advisory sent when a server runs out of disk space

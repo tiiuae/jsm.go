@@ -1,7 +1,7 @@
 package advisory
 
 import (
-	"github.com/nats-io/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/event"
 )
 
 // AccountConnectionsV1 is sent regularly reporting the state of all accounts with

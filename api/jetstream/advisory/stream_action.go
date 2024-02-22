@@ -1,7 +1,7 @@
 package advisory
 
 import (
-	"github.com/nats-io/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/event"
 )
 
 // ActionAdvisoryTypeV1 indicates which action against a stream, consumer or template triggered an advisory

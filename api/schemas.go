@@ -11,7 +11,7 @@ import (
 	"text/template"
 	"time"
 
-	scfs "github.com/nats-io/jsm.go/schemas"
+	scfs "github.com/tiiuae/jsm.go/schemas"
 )
 
 // SchemasRepo is the repository holding NATS Schemas

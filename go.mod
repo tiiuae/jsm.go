@@ -1,4 +1,4 @@
-module github.com/nats-io/jsm.go
+module github.com/tiiuae/jsm.go
 
 go 1.21
 

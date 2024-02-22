@@ -23,7 +23,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	"github.com/nats-io/jsm.go"
+	"github.com/tiiuae/jsm.go"
 )
 
 func TestStream_Snapshot(t *testing.T) {

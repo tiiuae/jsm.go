@@ -3,7 +3,7 @@ package advisory
 import (
 	"time"
 
-	"github.com/nats-io/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/event"
 )
 
 // PeerInfoV1 is information about a specific peer in a cluster

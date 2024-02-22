@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/jsm.go"
+	"github.com/tiiuae/jsm.go"
 )
 
 func TestPager(t *testing.T) {

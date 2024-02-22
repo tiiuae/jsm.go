@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	jsadvisory "github.com/nats-io/jsm.go/api/jetstream/advisory"
-	scfs "github.com/nats-io/jsm.go/schemas"
+	jsadvisory "github.com/tiiuae/jsm.go/api/jetstream/advisory"
+	scfs "github.com/tiiuae/jsm.go/schemas"
 )
 
 const jetStreamAPIAuditEvent = `{

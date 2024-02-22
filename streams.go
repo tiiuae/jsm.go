@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nats-io/jsm.go/api"
+	"github.com/tiiuae/jsm.go/api"
 	"github.com/tiiuae/nats.go"
 )
 

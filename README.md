@@ -82,7 +82,7 @@ schemaType, _ := api.SchemaTypeForMessage(m.Data)
 schema, _ := api.Schema(schemaType)
 ```
 
-Several other Schema related helpers exist to search Schemas, fine URLs and more.  See the `api` [![Reference](https://pkg.go.dev/badge/github.com/nats.io/jsm.go/api)](https://pkg.go.dev/github.com/nats-io/jsm.go/api).
+Several other Schema related helpers exist to search Schemas, fine URLs and more.  See the `api` [![Reference](https://pkg.go.dev/badge/github.com/tiiuae/jsm.go/api)](https://pkg.go.dev/github.com/tiiuae/jsm.go/api).
 
 ### Parsing Message Content
 

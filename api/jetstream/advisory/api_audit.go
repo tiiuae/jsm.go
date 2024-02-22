@@ -1,8 +1,8 @@
 package advisory
 
 import (
-	"github.com/nats-io/jsm.go/api/event"
-	"github.com/nats-io/jsm.go/api/server/advisory"
+	"github.com/tiiuae/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/server/advisory"
 )
 
 // JetStreamAPIAuditV1 is a advisory published for any JetStream API access

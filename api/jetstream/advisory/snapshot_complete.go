@@ -3,8 +3,8 @@ package advisory
 import (
 	"time"
 
-	"github.com/nats-io/jsm.go/api/event"
-	"github.com/nats-io/jsm.go/api/server/advisory"
+	"github.com/tiiuae/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/server/advisory"
 )
 
 // JSSnapshotCompleteAdvisoryV1 is an advisory sent after a snapshot is successfully started

@@ -10,7 +10,7 @@ import (
 
 	"github.com/tiiuae/nats.go"
 
-	"github.com/nats-io/jsm.go/api"
+	"github.com/tiiuae/jsm.go/api"
 )
 
 type StreamPager struct {

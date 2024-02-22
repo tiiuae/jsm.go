@@ -3,8 +3,8 @@ package jsm
 import (
 	"fmt"
 
-	"github.com/nats-io/jsm.go/api"
 	"github.com/nats-io/nats-server/v2/server"
+	"github.com/tiiuae/jsm.go/api"
 )
 
 // ParseEvent parses event e and returns event as for example *api.ConsumerAckMetric, all unknown

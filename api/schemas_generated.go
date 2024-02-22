@@ -3,11 +3,11 @@
 package api
 
 import (
-	jsadvisory "github.com/nats-io/jsm.go/api/jetstream/advisory"
-	jsmetric "github.com/nats-io/jsm.go/api/jetstream/metric"
-	srvadvisory "github.com/nats-io/jsm.go/api/server/advisory"
-	srvmetric "github.com/nats-io/jsm.go/api/server/metric"
-	scfs "github.com/nats-io/jsm.go/schemas"
+	jsadvisory "github.com/tiiuae/jsm.go/api/jetstream/advisory"
+	jsmetric "github.com/tiiuae/jsm.go/api/jetstream/metric"
+	srvadvisory "github.com/tiiuae/jsm.go/api/server/advisory"
+	srvmetric "github.com/tiiuae/jsm.go/api/server/metric"
+	scfs "github.com/tiiuae/jsm.go/schemas"
 	"github.com/tiiuae/nats.go/micro"
 )
 

@@ -26,8 +26,8 @@ import (
 	"github.com/google/go-cmp/cmp"
 	"github.com/tiiuae/nats.go"
 
-	"github.com/nats-io/jsm.go"
-	"github.com/nats-io/jsm.go/api"
+	"github.com/tiiuae/jsm.go"
+	"github.com/tiiuae/jsm.go/api"
 )
 
 func TestNewStreamFromDefault(t *testing.T) {

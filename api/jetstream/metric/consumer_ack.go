@@ -1,7 +1,7 @@
 package metric
 
 import (
-	"github.com/nats-io/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/event"
 )
 
 // ConsumerAckMetricV1 is a metric published when a Consumer

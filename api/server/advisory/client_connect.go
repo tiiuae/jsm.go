@@ -1,7 +1,7 @@
 package advisory
 
 import (
-	"github.com/nats-io/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/event"
 )
 
 // ConnectEventMsgV1 is sent when a new connection is made that is part of an account.

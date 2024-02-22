@@ -16,7 +16,7 @@ package jsm
 import (
 	"time"
 
-	"github.com/nats-io/jsm.go/api"
+	"github.com/tiiuae/jsm.go/api"
 )
 
 // Option is a option to configure the JetStream Manager

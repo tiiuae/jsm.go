@@ -24,7 +24,7 @@ import (
 
 	"github.com/tiiuae/nats.go"
 
-	"github.com/nats-io/jsm.go/api"
+	"github.com/tiiuae/jsm.go/api"
 )
 
 // standard api responses with error embedded

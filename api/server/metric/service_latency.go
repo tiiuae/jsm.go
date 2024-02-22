@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/nats-io/jsm.go/api/event"
-	"github.com/nats-io/jsm.go/api/server/advisory"
+	"github.com/tiiuae/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/server/advisory"
 )
 
 // ServiceLatencyV1 is the JSON message sent out in response to latency tracking for

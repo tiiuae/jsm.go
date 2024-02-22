@@ -3,7 +3,7 @@ package advisory
 import (
 	"time"
 
-	"github.com/nats-io/jsm.go/api/event"
+	"github.com/tiiuae/jsm.go/api/event"
 )
 
 // JSConsumerPauseAdvisoryV1 indicates that a consumer was paused or unpaused

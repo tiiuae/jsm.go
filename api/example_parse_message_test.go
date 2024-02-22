@@ -3,7 +3,7 @@ package api
 import (
 	"fmt"
 
-	jsadvisory "github.com/nats-io/jsm.go/api/jetstream/advisory"
+	jsadvisory "github.com/tiiuae/jsm.go/api/jetstream/advisory"
 )
 
 func ExampleParseMessage() {
