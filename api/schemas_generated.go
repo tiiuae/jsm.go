@@ -8,7 +8,7 @@ import (
 	srvadvisory "github.com/nats-io/jsm.go/api/server/advisory"
 	srvmetric "github.com/nats-io/jsm.go/api/server/metric"
 	scfs "github.com/nats-io/jsm.go/schemas"
-	"github.com/nats-io/nats.go/micro"
+	"github.com/tiiuae/nats.go/micro"
 )
 
 var schemaTypes = map[string]func() any{

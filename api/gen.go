@@ -45,7 +45,7 @@ import (
     jsmetric "github.com/nats-io/jsm.go/api/jetstream/metric"
 	jsapi "github.com/nats-io/jsm.go/api/jetstream/api"
     scfs "github.com/nats-io/jsm.go/schemas"
-	"github.com/nats-io/nats.go/micro"
+	"github.com/tiiuae/nats.go/micro"
 )
 
 var schemaTypes = map[string]func() any {

@@ -25,8 +25,8 @@ import (
 	"time"
 
 	"github.com/nats-io/jsm.go/api"
-	"github.com/nats-io/nats.go"
 	"github.com/nats-io/nuid"
+	"github.com/tiiuae/nats.go"
 )
 
 // DefaultConsumer is the configuration that will be used to create new Consumers in NewConsumer

@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/nats-io/jsm.go/api"
-	"github.com/nats-io/nats.go"
+	"github.com/tiiuae/nats.go"
 
 	"github.com/nats-io/jsm.go"
 )

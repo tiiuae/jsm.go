@@ -19,7 +19,7 @@ import (
 
 	srv "github.com/nats-io/nats-server/v2/server"
 	"github.com/nats-io/nats-server/v2/test"
-	"github.com/nats-io/nats.go"
+	"github.com/tiiuae/nats.go"
 )
 
 // Do not change the order of these since some test relies on it.

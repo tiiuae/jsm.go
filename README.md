@@ -6,7 +6,7 @@ This package is the underlying library for the `nats` CLI, our Terraform provide
 It's essentially a direct wrapping of the JetStream API with few userfriendly features and requires deep technical
 knowledge of the JetStream internals.
 
-For typical end users we suggest the [nats.go](https://github.com/nats-io/nats.go) package.
+For typical end users we suggest the [nats.go](https://github.com/tiiuae/nats.go) package.
 
 ## Initialization
 

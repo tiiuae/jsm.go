@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nats-io/nats.go"
+	"github.com/tiiuae/nats.go"
 
 	"github.com/nats-io/jsm.go/natscontext"
 )

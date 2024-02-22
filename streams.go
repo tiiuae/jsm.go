@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/nats-io/jsm.go/api"
-	"github.com/nats-io/nats.go"
+	"github.com/tiiuae/nats.go"
 )
 
 // DefaultStream is a template configuration with StreamPolicy retention and 1 years maximum age. No storage type or subjects are set

@@ -20,7 +20,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nats-io/nats.go"
+	"github.com/tiiuae/nats.go"
 )
 
 // MsgInfo holds metadata about a message that was received from JetStream
