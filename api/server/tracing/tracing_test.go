@@ -17,8 +17,8 @@ import (
 	"testing"
 	"time"
 
-	srv "github.com/nats-io/nats-server/v2/server"
-	"github.com/nats-io/nats-server/v2/test"
+	srv "github.com/tiiuae/nats-server/v2/server"
+	"github.com/tiiuae/nats-server/v2/test"
 	"github.com/tiiuae/nats.go"
 )
 

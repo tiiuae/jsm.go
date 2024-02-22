@@ -17,9 +17,9 @@ import (
 	"testing"
 	"time"
 
-	natsd "github.com/nats-io/nats-server/v2/server"
 	"github.com/tiiuae/jsm.go"
 	"github.com/tiiuae/jsm.go/api"
+	natsd "github.com/tiiuae/nats-server/v2/server"
 	"github.com/tiiuae/nats.go"
 )
 

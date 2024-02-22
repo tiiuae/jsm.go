@@ -39,7 +39,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/nats-io/nats-server/v2/server/certstore"
+	"github.com/tiiuae/nats-server/v2/server/certstore"
 	"github.com/tiiuae/nats.go"
 )
 

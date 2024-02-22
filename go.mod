@@ -9,9 +9,9 @@ require (
 	github.com/expr-lang/expr v1.15.8
 	github.com/google/go-cmp v0.6.0
 	github.com/klauspost/compress v1.17.7
-	github.com/nats-io/nats-server/v2 v2.11.0-dev.0.20240217230419-4b3317b980ba
 	github.com/nats-io/nuid v1.0.1
-	github.com/tiiuae/nats.go v0.0.0-20240222152039-fa6703e8f681
+	github.com/tiiuae/nats-server/v2 v2.0.0-20240222211935-176ed7037a03
+	github.com/tiiuae/nats.go v0.0.0-20240222161647-f42e2401f03f
 	golang.org/x/net v0.21.0
 	golang.org/x/text v0.14.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -23,7 +23,6 @@ require (
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/minio/highwayhash v1.0.2 // indirect
 	github.com/nats-io/jwt/v2 v2.5.4 // indirect
-	github.com/nats-io/nats.go v1.33.0 // indirect
 	github.com/nats-io/nkeys v0.4.7 // indirect
 	github.com/onsi/ginkgo/v2 v2.15.0 // indirect
 	github.com/quic-go/quic-go v0.41.0 // indirect

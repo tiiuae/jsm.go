@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/nats-io/nats-server/v2/server"
+	"github.com/tiiuae/nats-server/v2/server"
 
 	"github.com/tiiuae/jsm.go/api"
 

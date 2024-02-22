@@ -8,7 +8,7 @@ This file lists the dependencies used in this repository.
 | github.com/dustin/go-humanize  | MIT License                             |
 | github.com/google/go-cmp       | BSD 3-Clause "New" or "Revised" License |
 | github.com/klauspost/compress  | BSD 3-Clause "New" or "Revised" License |
-| github.com/nats-io/nats-server | Apache License 2.0                      |
+| github.com/tiiuae/nats-server | Apache License 2.0                      |
 | github.com/tiiuae/nats.go     | Apache License 2.0                      |
 | github.com/nats-io/nuid        | Apache-2.0                              |
 | golang.org/x/net               | BSD 3-Clause "New" or "Revised" License |
